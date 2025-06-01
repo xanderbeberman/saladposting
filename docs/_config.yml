@@ -21,7 +21,7 @@
 title: saladposting.com
 description: >- # this means to ignore newlines until "baseurl:"
   eating one salad every day in june
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/saladposting" # the subpath of your site, e.g. /blog
 url: "https://saladposting.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 sass:
