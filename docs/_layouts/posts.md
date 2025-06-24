@@ -13,7 +13,7 @@ layout: default
 {% if post.image %}
 <a href="{{ post.url }}"><img src="{{ site.baseurl }}/images/{{ post.image }}"/></a>
 {% else %}
-<a href="{{ post.url }}"><img src="{{ site.baseurl }}/images/salad-emoji.png"/></a>
+<a href="{{ post.url }}"><img src="{{ site.baseurl }}/images/salad-emoji-bg.png"/></a>
 {% endif %}
 
 </div>
