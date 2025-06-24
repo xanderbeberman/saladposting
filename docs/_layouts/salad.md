@@ -10,4 +10,6 @@ layout: default
 
 {{ content }}
 
+{% if page.image %}
 <img class="saladimg" src="{{ site.baseurl }}/images/{{ page.image }}">
+{% endif %}
